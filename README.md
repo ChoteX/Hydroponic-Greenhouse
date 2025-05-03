@@ -95,9 +95,9 @@ Update these values in the code:
 
       
 
-| **Dachi Tchotashvili**    
-| **Levan Lolashvili**      
-| **Dea Nozadze**   
-| **Nika Gegenava**      
+* **Dachi Tchotashvili**    
+* **Levan Lolashvili**      
+* **Dea Nozadze**   
+* **Nika Gegenava**      
 
 ---
