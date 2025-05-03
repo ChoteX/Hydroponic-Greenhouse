@@ -14,7 +14,7 @@ This project uses a modified EfficientNet-B0 model to classify grayscale images 
 ## 🧠 Model Overview
 
 - **Base Model**: EfficientNet-B0
-- **Input**: Grayscale image (1-channel)
+- **Input**: jpeg image
 - **Output Classes**: 
   - `Healthy`
   - `Diseased`
