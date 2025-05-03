@@ -64,14 +64,12 @@ bool buttonState = 0;
 
 // Pin definitions
 #define heaterPin 12
-#define pumpPin 2
+#define pumpPin 27
 #define lightPin 13
-#define trigPin1 9
-#define echoPin1 A0
-#define trigPin2 3
-#define echoPin2 1
+#define trigPin1 18
+#define echoPin1 19
 #define DHT11PIN 14
-#define servoPin 15
+#define servoPin 5
 
 // Create display object
 Adafruit_SSD1306 oled(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
