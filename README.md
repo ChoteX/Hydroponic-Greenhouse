@@ -93,8 +93,8 @@ Update these values in the code:
 
 ## 👥 Team Members
 
-| Name            |       
-|-----------------|
+      
+
 | **Dachi Tchotashvili**    
 | **Levan Lolashvili**      
 | **Dea Nozadze**   
