@@ -1,9 +1,6 @@
 
 # Automated Greenhouse + AI disease detection
 
-Project created by: Dachi Tchotashvili, Levan Lolashvili, Dea Nozadze, Nika Gegenava
-
-
 
 # 🥬 Lettuce Health Classifier
 
@@ -90,3 +87,17 @@ Update these values in the code:
 
 #define AIO_USERNAME "YourAIOUsername"
 #define AIO_KEY "YourAIOKey"
+
+```
+---
+
+## 👥 Team Members
+
+| Name            |       
+|-----------------|
+| **Dachi Tchotashvili**    
+| **Levan Lolashvili**      
+| **Dea Nozadze**   
+| **Nika Gegenava**      
+
+---
