@@ -9,7 +9,7 @@ Team members: Dachi Tchotashvili, Levan Lolashvili, Dea Nozadze, Nika Gegenava
 
 This project uses a modified EfficientNet-B0 model to classify grayscale images of lettuce leaves as either **Healthy** or **Diseased**.
 
----
+
 
 ## 🧠 Model Overview
 
@@ -20,7 +20,7 @@ This project uses a modified EfficientNet-B0 model to classify grayscale images 
   - `Diseased`
 - **Checkpoint**: `lettuce_classifier.pth`
 
----
+
 
 ## 🛠️ Requirements
 
@@ -30,14 +30,14 @@ Install dependencies using pip:
 pip install torch torchvision pillow
 ```
 
----
+
 ---
 
 # 🌿 ESP32 Smart Agriculture System
 
 This Arduino-based project uses an **ESP32** microcontroller to automate and monitor an indoor agriculture or hydroponic environment. It collects sensor data and publishes it to **Adafruit IO** using MQTT while also allowing for remote control of actuators such as heaters, lights, pumps, and nutrient dispensers.
 
----
+
 
 ## 🧰 Hardware Used
 
@@ -48,7 +48,6 @@ This Arduino-based project uses an **ESP32** microcontroller to automate and mon
 - SSD1306 OLED Display (128x64)  
 - Relay-controlled devices: heater, pump, lights
 
----
 
 ## 📡 Features
 
@@ -65,7 +64,7 @@ This Arduino-based project uses an **ESP32** microcontroller to automate and mon
 - 🧠 Supports both manual and automatic control
 - 🖥 Displays key metrics on OLED screen
 
----
+
 
 ## 🔌 Pin Configuration (ESP32)
 
@@ -79,7 +78,7 @@ This Arduino-based project uses an **ESP32** microcontroller to automate and mon
 | Ultrasonic 1  | Trig: 9, Echo: A0 |
 | Ultrasonic 2  | Trig: 3, Echo: 1  |
 
----
+
 
 ## ☁️ MQTT Configuration (Adafruit IO)
 
