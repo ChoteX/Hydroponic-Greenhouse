@@ -37,7 +37,7 @@ transform = transforms.Compose([
     transforms.Normalize(mean=[0.5], std=[0.5]) 
 ])
 
-image_path = r"C:\Users\Home\Desktop\tirili.jpeg" 
+image_path = r"C:\Users\Home\Desktop\test.jpeg" 
 image = Image.open(image_path).convert('L')
 input_tensor = transform(image).unsqueeze(0) 
 
