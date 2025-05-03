@@ -68,12 +68,12 @@ This Arduino-based project uses an **ESP32** microcontroller to automate and mon
 | Component     | Pin         |
 |---------------|-------------|
 | Heater Relay  | GPIO 12     |
-| Pump Relay    | GPIO 2      |
+| Pump Relay    | GPIO 27     |
 | Light Relay   | GPIO 13     |
 | DHT11 Sensor  | GPIO 14     |
-| Servo Motor   | GPIO 15     |
-| Ultrasonic 1  | Trig: 9, Echo: A0 |
-| Ultrasonic 2  | Trig: 3, Echo: 1  |
+| Servo Motor   | GPIO 5      |
+| Ultrasonic    | Trig: 18, Echo: 19 |
+
 
 
 
