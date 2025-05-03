@@ -4,13 +4,13 @@ from picamera2 import Picamera2
 import time
 
 # Set PC IP address and port
-PC_IP = "192.168.1.10"  # <-- Change to your PC's local IP
+PC_IP = "192.168.1.15" 
 PC_PORT = 5001
 
 # Setup camera
 picam2 = Picamera2()
 picam2.start()
-time.sleep(2)  # Give some time for camera to warm up
+time.sleep(2)
 
 # Capture image
 frame = picam2.capture_array()
