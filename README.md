@@ -30,6 +30,9 @@ Install dependencies using pip:
 pip install torch torchvision pillow
 ```
 
+---
+---
+
 # 🌿 ESP32 Smart Agriculture System
 
 This Arduino-based project uses an **ESP32** microcontroller to automate and monitor an indoor agriculture or hydroponic environment. It collects sensor data and publishes it to **Adafruit IO** using MQTT while also allowing for remote control of actuators such as heaters, lights, pumps, and nutrient dispensers.
